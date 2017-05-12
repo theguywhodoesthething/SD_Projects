@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<planets>
+	<planet>
+		<name>Mercury</name>
+		<orbit scale="km">57910000</orbit>
+		<diameter scale="km">4880</diameter>
+	</planet>
+
+	<planet>
+		<name>Venus</name>
+		<orbit scale="km">108200000</orbit>
+		<diameter scale="km">12103</diameter>
+	</planet>
+
+	<planet>
+		<name>Earth</name>
+		<orbit scale="km">149600000</orbit>
+		<diameter scale="km">12756</diameter>
+	</planet>
+
+	<planet>
+		<name>Mars</name>
+		<orbit scale="km">227940000</orbit>
+		<diameter scale="km">6794</diameter>
+	</planet>
+
+	<planet>
+		<name>Jupiter</name>
+		<orbit scale="km">778330000</orbit>
+		<diameter scale="km">142984</diameter>
+	</planet>
+
+	<planet>
+		<name>Saturn</name>
+		<orbit scale="km">1429400000</orbit>
+		<diameter scale="km">120536</diameter>
+	</planet>
+
+	<planet>
+		<name>Uranus</name>
+		<orbit scale="km">2870990000</orbit>
+		<diameter scale="km">51118</diameter>
+	</planet>
+
+	<planet>
+		<name>Neptune</name>
+		<orbit scale="km">4504000000</orbit>
+		<diameter scale="km">49532</diameter>
+	</planet>
+</planets>

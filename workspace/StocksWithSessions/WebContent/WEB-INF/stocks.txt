@@ -1,0 +1,5 @@
+aapl,Apple,107.25
+fb,FaceBook,105.50
+goog,Alphabet,750.50
+nflx,Netflix,117.00
+twtr,Twitter,22.57

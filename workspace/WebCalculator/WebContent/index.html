@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Calculator</title>
+</head>
+<body>
+
+<h2>Calculator</h2>
+<h4>Please enter two numbers and the calculation you would like to perform.</h4>
+<br>
+<form method="POST" action="Calculate.do">
+<label>First number:<input type="text" name="fn"></label>
+<label>Operator<select name="op">
+	<option value="add">+</option>
+	<option value="sub">-</option>
+	<option value="div">/</option>
+	<option value="mul">*</option>
+</select></label>
+<label>Second number:<input type="text" name="sn"></label>
+<input type="submit" value="Result">
+</form>
+
+</body>
+</html>
